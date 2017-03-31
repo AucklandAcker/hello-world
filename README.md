@@ -1,4 +1,4 @@
 # hello-world
-Beginner's attempt at repository
+Beginner's attempt at repositor
 
-Howdy, I'm just a college student trying to aspire to be the best programmer I can be.
+Wanna-be programmer looking to earn the skills to pay them bills
